@@ -22,7 +22,7 @@ class _NuevaPaginaState extends State<NuevaPagina> {
           print("toco boton, toco boton");
           setState(() {
             widget.numero = 100;
-          });º
+          });
         },
       ),
     );
